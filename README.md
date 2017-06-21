@@ -10,7 +10,7 @@ http://download.geofabrik.de/asia.html
 
 download .osm.bz2 file. Then unzip  the file and rename it.
 
-After that open python interpreter. Then create map and style it.
+After that open python interpreter. Then create map and style it. For, the code go to: https://abhinavhanda.wordpress.com/2017/06/17/mapnik/
 Now, give permission to the requried .shp file from your datasource so that it can be executed.  You can check permission status of your file using command: ll and then use:
 
 chmod 777 /address of file/file.shp
